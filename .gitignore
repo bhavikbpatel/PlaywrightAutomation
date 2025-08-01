@@ -27,3 +27,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Local documentation files
+GitHubCheckInSteps.md
