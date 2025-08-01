@@ -1,6 +1,8 @@
-# Playwright E-Commerce Test Automation Framework
+# PlaywrightAutomation
 
 ## Overview
+
+Playwright POM based framework with Cucumber Feature example, Allure Report and Azure integration.
 
 This is a comprehensive Playwright test automation framework designed for e-commerce application testing. The framework implements the Page Object Model (POM) design pattern and provides utilities for both UI and API testing.
 
