@@ -1,0 +1,36 @@
+{
+  "name": "playwright_ud",
+  "version": "1.0.0",
+  "description": "Playwright Test Automation Framework - E-commerce testing suite with Page Object Model implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:allure": "npx playwright test --reporter=allure-playwright",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "report": "npx playwright show-report",
+    "allure:serve": "allure serve allure-results",
+    "allure:generate": "allure generate allure-results --clean -o allure-report",
+    "webTests": "npx playwright test --grep @Web",
+    "APITests": "npx playwright test --grep @API"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "e2e",
+    "page-object-model",
+    "javascript"
+  ],
+  "author": "Bhavik",
+  "license": "ISC",
+  "devDependencies": {
+    "@azure/microsoft-playwright-testing": "^1.0.0-beta.7",
+    "@cucumber/cucumber": "^12.1.0",
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.1.0",
+    "allure-playwright": "^3.3.2",
+    "exceljs": "^4.4.0",
+    "typescript": "^5.9.2"
+  }
+}

@@ -1,0 +1,29 @@
+
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Allure reports
+/allure-results/
+/allure-report/
+
+# Screenshots and other artifacts
+screenshot.png
+*.png
+*.jpg
+*.jpeg
+state.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
