@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Client App Locator Test Suite
+ * @createdBy Bhavik Patel
+ */
 const { test, expect } = require('@playwright/test');
 
 test('Interactive login test with input prompts', async ({ page }) => {

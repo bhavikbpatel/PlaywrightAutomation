@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Client App POM Test Suite
+ * @createdBy Bhavik Patel
+ */
 const { test, expect } = require('@playwright/test');
 const {customtest}=require('../utils/test-base');
 const { POManager } = require('../pageObjects/POManager');

@@ -3,8 +3,8 @@
  * @description This file contains the POManager class which acts as a central manager
  * for all page objects, providing easy access to different page instances.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
+ * 
  * @version 1.0.0
  * 
  * @requires ../pageObjects/LoginPage

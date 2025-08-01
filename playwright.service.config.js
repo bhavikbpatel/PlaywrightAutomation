@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Azure Playwright Testing Service Configuration
+ * @createdBy Bhavik Patel
+ */
 const { defineConfig } = require('@playwright/test');
 const { getServiceConfig, ServiceOS } = require('@azure/microsoft-playwright-testing');
 const config = require('./playwright.config');

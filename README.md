@@ -6,8 +6,7 @@ Playwright POM based framework with Cucumber Feature example, Allure Report and 
 
 This is a comprehensive Playwright test automation framework designed for e-commerce application testing. The framework implements the Page Object Model (POM) design pattern and provides utilities for both UI and API testing.
 
-**Author:** Bhavik  
-**Created:** 2025-08-01  
+**Created by:** Bhavik Patel  
 **Version:** 1.0.0  
 
 ## Features

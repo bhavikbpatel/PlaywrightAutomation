@@ -3,8 +3,7 @@
  * @description This file contains the APIUtils class which provides utility methods
  * for API interactions including authentication and order creation.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test

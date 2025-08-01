@@ -3,8 +3,7 @@
  * @description Configuration file for Playwright test automation framework.
  * Defines test settings, browser configurations, and execution parameters.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test

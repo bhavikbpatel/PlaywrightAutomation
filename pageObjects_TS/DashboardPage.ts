@@ -3,8 +3,8 @@
  * @description This file contains the DashboardPage class which handles interactions
  * with the main dashboard/product listing page including product search and cart operations.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
+ * 
  * @version 1.0.0
  * 
  * @requires @playwright/test

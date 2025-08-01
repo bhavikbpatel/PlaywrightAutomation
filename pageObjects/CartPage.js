@@ -3,8 +3,7 @@
  * @description This file contains the CartPage class which handles interactions
  * with the shopping cart page including product verification and checkout navigation.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test

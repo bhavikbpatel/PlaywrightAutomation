@@ -1,3 +1,7 @@
+/**
+ * @fileoverview Cucumber Hooks
+ * @createdBy Bhavik Patel
+ */
 const { POManager } = require('../../pageObjects/POManager');
 const playwright= require('playwright/test');
 const {Before, After, AfterStep, Status} = require('@cucumber/cucumber');

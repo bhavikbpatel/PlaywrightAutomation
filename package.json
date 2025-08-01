@@ -1,7 +1,7 @@
 {
   "name": "playwright_ud",
   "version": "1.0.0",
-  "description": "Playwright Test Automation Framework - E-commerce testing suite with Page Object Model implementation",
+  "description": "Playwright Test Automation Framework - E-commerce testing suite with Page Object Model implementation. Created by Bhavik Patel",
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",

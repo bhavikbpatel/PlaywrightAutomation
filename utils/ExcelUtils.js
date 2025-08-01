@@ -3,8 +3,7 @@
  * @description This file contains the ExcelUtils class which provides utility methods
  * for reading from and writing to Excel files using ExcelJS library.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires exceljs

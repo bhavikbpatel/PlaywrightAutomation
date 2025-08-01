@@ -3,8 +3,7 @@
  * @description This file contains the CheckOutPage class which handles interactions
  * with the checkout page including country selection, order placement, and user verification.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test

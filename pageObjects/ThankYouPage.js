@@ -3,8 +3,7 @@
  * @description This file contains the ThankYouPage class which handles interactions
  * with the thank you/order confirmation page after placing an order.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test

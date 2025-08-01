@@ -3,8 +3,7 @@
  * @description This file contains the LoginPage class which handles all login-related
  * interactions including navigation to login page and user authentication.
  * 
- * @author Bhavik
- * @created 2025-08-01
+ * @createdBy Bhavik Patel
  * @version 1.0.0
  * 
  * @requires @playwright/test
